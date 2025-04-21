@@ -1,0 +1,9 @@
+[submodule "backend"]
+  path = backend
+  url  = https://github.com/KIHLYouns/TechBridge_Backend_Laravel.git
+  branch = main
+
+[submodule "frontend"]
+  path = frontend
+  url  = https://github.com/KIHLYouns/TechBridge_Frontend_Angular.git
+  branch = main  
